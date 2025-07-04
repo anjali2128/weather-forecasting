@@ -5,9 +5,9 @@ A Capstone Project submitted in partial fulfillment of the requirements for the 
 ---
 
 ## 👨‍💻 Team Members
-- **Anjali Mishra** (21BCE0872)  
-- **Dherya Chaudhary** (21BCE3913)  
-- **Amogh Vardhan Kona** (21BDS0148)  
+- **Anjali Mishra** 
+- **Dherya Chaudhary** 
+- **Amogh Vardhan Kona**   
 
 🧑‍🏫 **Project Supervisor:** Dr. Jafar Ali Ibrahim S, Assistant Professor Sr. Grade 2, School of Computer Science and Engineering
 
