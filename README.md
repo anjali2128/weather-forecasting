@@ -84,7 +84,12 @@ weather-warning-forecasting/
   - LSTM: Slower, better for batch processing
 
 ---
+### 📘 Notebook Previews
 
+- [Weather Forecasting Notebook (ARIMA)](https://nbviewer.org/github/anjali2128/weather-forecasting/blob/main/code/final_arima_review.ipynb)
+- [Data Collection](https://nbviewer.org/github/anjali2128/weather-forecasting/blob/main/code/DataCollection.ipynb)
+- [LSTM Model](https://nbviewer.org/github/anjali2128/weather-forecasting/blob/main/code/lstm.ipynb)
+---
 ## 💡 Future Enhancements
 - Add more weather parameters (humidity, wind, solar radiation)
 - Develop ARIMA+LSTM hybrid models
